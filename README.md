@@ -1,2 +1,2 @@
 # Tabuada
-Tabuada inspirado no Curso em Vídeo
+Site de treino em JS inspirado no Curso em Vídeo
